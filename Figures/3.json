@@ -1,0 +1,39 @@
+{
+    "Materials": [
+        "ABS",
+        "PVC"
+    ],
+    "Release Date": [
+        1,
+        2013
+    ],
+    "Artists": [
+        "Hashimoto Ryou"
+    ],
+    "Manufacturer": [
+        "Kotobukiya"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4934054782581,
+    "Version": "Swimsuit",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kousaka-kirino-1-7-na-wake-ga-nai-ver-swimsuit-ver-kotobukiya",
+            "Brand New": 127.17,
+            "Pre Owned": 61.29
+        },
+        "Nin Nin Game": {
+            "URL": "figures-goodies/8304-oreno-imouto-ga-konna-ni-kawaii-wake-ga-nai-kirino-kousaka-kotobukiya-en.html",
+            "Shipping": 30.5,
+            "Brand New": {
+                "Available": true,
+                "Price": 102.1
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 0
+            }
+        }
+    }
+}

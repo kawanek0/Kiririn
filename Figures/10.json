@@ -1,0 +1,37 @@
+{
+    "Materials": [
+        "PVC"
+    ],
+    "Release Date": [
+        12,
+        2013
+    ],
+    "Artists": [
+        "Hiro"
+    ],
+    "Manufacturer": [
+        "Alphamax"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4562283271059,
+    "Version": "One Piece",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "kousaka-kirino-alphamax",
+            "Brand New": 94.24,
+            "Pre Owned": 64.17
+        },
+        "Nin Nin Game": {
+            "URL": "japanese-import-alphamax-hobbies-and-figures/6782-oreno-imouto-ga-konna-ni-kawaii-wake-ga-nai-kirino-kousaka-one-piece-dress-ver-alphamax-en.html",
+            "Brand New": {
+                "Available": false,
+                "Price": 2343
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 98787
+            }
+        }
+    }
+}

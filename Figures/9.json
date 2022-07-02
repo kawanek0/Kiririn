@@ -1,0 +1,36 @@
+{
+    "Materials": [
+        "PVC"
+    ],
+    "Release Date": [
+        11,
+        2013
+    ],
+    "Artists": [
+        "mskmodel"
+    ],
+    "Manufacturer": [
+        "Griffon Enterprises"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4582221156620,
+    "Version": "Nekomimi",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kousaka-kirino-1-8-nekomimi-ver-griffon-enterprises",
+            "Brand New": 216.3
+        },
+        "Nin Nin Game": {
+            "URL": "9842-oreno-imouto-ga-konna-ni-kawaii-wake-ga-nai-kirino-kousaka-griffon-enterprises-en.html",
+            "Brand New": {
+                "Available": false,
+                "Price": 2343
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 98787
+            }
+        }
+    }
+}

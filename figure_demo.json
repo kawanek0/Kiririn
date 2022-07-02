@@ -1,0 +1,42 @@
+{
+	"Materials": [
+		"Resin"
+	],
+	"Release Date": [
+		72013
+	],
+	"Artists": [
+		"MaedaTomoki"
+	],
+	"Manufacturer": [
+		"Clayz"
+	],
+	"Character": "KirinoKousaka",
+	"Series": "OreNai",
+	"JAN": 0000000,
+	"Version": "sffddf",
+	"Websites": {
+		"Solaris Japan": {
+			"URL": "oreno",
+			"Brand New": {
+				"Available": false,
+				"Price": 2343
+			},
+			"Pre Owned": {
+				"Available": false,
+				"Price": 98787
+			}
+		},
+		"Nin Nin Game": {
+			"URL": "oreno",
+			"Brand New": {
+				"Available": false,
+				"Price": 2343
+			},
+			"Pre Owned": {
+				"Available": false,
+				"Price": 98787
+			}
+		}
+	}
+}

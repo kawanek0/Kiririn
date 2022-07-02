@@ -1,0 +1,37 @@
+{
+    "Materials": [
+        "Resin"
+    ],
+    "Release Date": [
+        7,
+        2013
+    ],
+    "Artists": [
+        "Maeda Tomoki"
+    ],
+    "Manufacturer": [
+        "Clayz"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4571104181644,
+    "Version": "Lying Pose",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "oreimo-kirino-kousaka-lying-pose-version-1-8-resi-carat-pre-painted-assembly-kit",
+            "Brand New": 276.0
+        },
+        "Nin Nin Game": {
+            "URL": "figures-goodies/6318-oreimo-kirino-kousaka-lying-pose-versionpre-painted-assembly-kit-resi-carat-en.html",
+            "Shipping": 30.5,
+            "Brand New": {
+                "Available": true,
+                "Price": 115.5
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 0
+            }
+        }
+    }
+}

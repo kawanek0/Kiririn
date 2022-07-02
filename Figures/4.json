@@ -1,0 +1,40 @@
+{
+    "Materials": [
+        "ABS",
+        "PVC"
+    ],
+    "Release Date": [
+        11,
+        2011
+    ],
+    "Artists": [
+        "Asai Masaki",
+        "Fushimi Tsukasa"
+    ],
+    "Manufacturer": [
+        "Max Factory"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4545784061732,
+    "Version": "Figma 099",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kousaka-kirino-figma-099-ascii-media-works-max-factory",
+            "Brand New": 61.7,
+            "Pre Owned": 51.29
+        },
+        "Nin Nin Game": {
+            "URL": "figma/4226-oreimo-kirino-kousaka-figma-099-en.html",
+            "Shipping": 0,
+            "Brand New": {
+                "Available": false,
+                "Price": 0
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 0
+            }
+        }
+    }
+}

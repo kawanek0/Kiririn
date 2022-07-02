@@ -1,0 +1,38 @@
+{
+    "Materials": [
+        "ABS",
+        "PVC"
+    ],
+    "Release Date": [
+        12,
+        2014
+    ],
+    "Artists": [
+        "Katsuaki Nemoto"
+    ],
+    "Manufacturer": [
+        "Ascii Media Works",
+        "Kaitendoh"
+    ],
+    "Character": "Kirino Kousaka",
+    "Series": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "JAN": 4560266122275,
+    "Version": "Plain Clothes",
+    "Websites": {
+        "Solaris Japan": {
+            "URL": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kousaka-kirino-1-8-plain-clothes-ver-ascii-media-works-kaitendoh",
+            "Pre Owned": 102.79
+        },
+        "Nin Nin Game": {
+            "URL": "4570-ore-no-imouto-ga-konna-ni-kawaii-kousaka-kirino-1-8-kaitendoh-en.html",
+            "Brand New": {
+                "Available": false,
+                "Price": 2343
+            },
+            "Pre Owned": {
+                "Available": false,
+                "Price": 98787
+            }
+        }
+    }
+}
